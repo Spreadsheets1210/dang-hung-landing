@@ -1,0 +1,566 @@
+{
+  "sourceDocument": "HoSoNangLuc_Platinum_v3.pdf",
+  "assets": [
+    {
+      "file": "logo-roger.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "Roger Technology",
+      "method": "embedded logo artwork, trimmed to remove excess white margin",
+      "width": 820,
+      "height": 295,
+      "pdfImage": "X106.png"
+    },
+    {
+      "file": "logo-homegy.webp",
+      "sourcePage": 10,
+      "brand": "Homegy",
+      "item": "Homegy",
+      "method": "embedded logo artwork, trimmed to remove excess white margin",
+      "width": 820,
+      "height": 278,
+      "pdfImage": "X110.png"
+    },
+    {
+      "file": "logo-philips.webp",
+      "sourcePage": 11,
+      "brand": "Philips Digital Door Lock",
+      "item": "Philips Digital Door Lock",
+      "method": "embedded logo artwork, trimmed to remove excess white margin",
+      "width": 820,
+      "height": 348,
+      "pdfImage": "X109.png"
+    },
+    {
+      "file": "logo-fasla.webp",
+      "sourcePage": 12,
+      "brand": "Fasla Lighting",
+      "item": "Fasla Lighting",
+      "method": "embedded logo artwork, trimmed to remove excess white margin",
+      "width": 820,
+      "height": 409,
+      "pdfImage": "X108.png"
+    },
+    {
+      "file": "logo-bose.webp",
+      "sourcePage": 13,
+      "brand": "Bose Professional",
+      "item": "Bose Professional",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 614,
+      "height": 264,
+      "cropPagePoints": [
+        125,
+        267,
+        432,
+        399
+      ]
+    },
+    {
+      "file": "homegy-ble-luxury-square.webp",
+      "sourcePage": 10,
+      "brand": "Homegy",
+      "item": "Công tắc cơ BLE Luxury",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 220,
+      "height": 218,
+      "cropPagePoints": [
+        631,
+        156,
+        741,
+        265
+      ],
+      "shape": "square"
+    },
+    {
+      "file": "homegy-ble-luxury-rectangle.webp",
+      "sourcePage": 10,
+      "brand": "Homegy",
+      "item": "Công tắc cơ BLE Luxury",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 220,
+      "height": 218,
+      "cropPagePoints": [
+        768,
+        156,
+        878,
+        265
+      ],
+      "shape": "rectangle"
+    },
+    {
+      "file": "homegy-ble-luxury-kinh-lom-square.webp",
+      "sourcePage": 10,
+      "brand": "Homegy",
+      "item": "Công tắc cơ BLE Luxury kính lõm",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 220,
+      "height": 218,
+      "cropPagePoints": [
+        631,
+        331,
+        741,
+        440
+      ],
+      "shape": "square"
+    },
+    {
+      "file": "homegy-ble-luxury-kinh-lom-rectangle.webp",
+      "sourcePage": 10,
+      "brand": "Homegy",
+      "item": "Công tắc cơ BLE Luxury kính lõm",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 220,
+      "height": 218,
+      "cropPagePoints": [
+        768,
+        331,
+        878,
+        440
+      ],
+      "shape": "rectangle"
+    },
+    {
+      "file": "homegy-ble-luxury-nhom-phang-square.webp",
+      "sourcePage": 10,
+      "brand": "Homegy",
+      "item": "Công tắc cơ BLE Luxury nhôm phẳng",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 220,
+      "height": 218,
+      "cropPagePoints": [
+        631,
+        507,
+        741,
+        616
+      ],
+      "shape": "square"
+    },
+    {
+      "file": "homegy-ble-luxury-nhom-phang-rectangle.webp",
+      "sourcePage": 10,
+      "brand": "Homegy",
+      "item": "Công tắc cơ BLE Luxury nhôm phẳng",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 220,
+      "height": 218,
+      "cropPagePoints": [
+        768,
+        507,
+        878,
+        616
+      ],
+      "shape": "rectangle"
+    },
+    {
+      "file": "fasla-jk-12w.webp",
+      "sourcePage": 12,
+      "brand": "Fasla Lighting",
+      "item": "JK-12W",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 168,
+      "height": 168,
+      "cropPagePoints": [
+        676,
+        164,
+        760,
+        248
+      ]
+    },
+    {
+      "file": "fasla-fx510.webp",
+      "sourcePage": 12,
+      "brand": "Fasla Lighting",
+      "item": "FX510",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 168,
+      "height": 168,
+      "cropPagePoints": [
+        676,
+        293,
+        760,
+        377
+      ]
+    },
+    {
+      "file": "fasla-fa206.webp",
+      "sourcePage": 12,
+      "brand": "Fasla Lighting",
+      "item": "FA206",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 168,
+      "height": 168,
+      "cropPagePoints": [
+        676,
+        422,
+        760,
+        506
+      ]
+    },
+    {
+      "file": "fasla-f7265.webp",
+      "sourcePage": 12,
+      "brand": "Fasla Lighting",
+      "item": "F7265",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 168,
+      "height": 168,
+      "cropPagePoints": [
+        676,
+        551,
+        760,
+        635
+      ]
+    },
+    {
+      "file": "fasla-f7121.webp",
+      "sourcePage": 12,
+      "brand": "Fasla Lighting",
+      "item": "F7121",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 168,
+      "height": 168,
+      "cropPagePoints": [
+        676,
+        680,
+        760,
+        764
+      ]
+    },
+    {
+      "file": "bose-ds-40f.webp",
+      "sourcePage": 13,
+      "brand": "Bose Professional",
+      "item": "DS 40F",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 224,
+      "height": 224,
+      "cropPagePoints": [
+        676,
+        184,
+        788,
+        296
+      ]
+    },
+    {
+      "file": "bose-ds-16f.webp",
+      "sourcePage": 13,
+      "brand": "Bose Professional",
+      "item": "DS 16F",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 224,
+      "height": 224,
+      "cropPagePoints": [
+        676,
+        386,
+        788,
+        498
+      ]
+    },
+    {
+      "file": "bose-fs2p.webp",
+      "sourcePage": 13,
+      "brand": "Bose Professional",
+      "item": "FS2P",
+      "method": "crop of embedded brochure artwork via 2× page render",
+      "width": 224,
+      "height": 224,
+      "cropPagePoints": [
+        676,
+        588,
+        788,
+        700
+      ]
+    },
+    {
+      "file": "roger-r21-351.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "R21/351",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/prodotto/r21-351",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Prodotti/BR21/681/image-thumb__681__product_detail/BR21.29d29b10.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 355,
+      "height": 281,
+      "note": "Roger uses the same photo on its official product pages for these underground motors."
+    },
+    {
+      "file": "roger-br21-351.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "BR21/351",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/prodotto/br21-351",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Prodotti/BR21/681/image-thumb__681__product_detail/BR21.29d29b10.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 355,
+      "height": 281,
+      "note": "Roger uses the same photo on its official product pages for these underground motors."
+    },
+    {
+      "file": "roger-br21-351-hs.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "BR21/351/HS",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/prodotto/br21-351-hs",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Prodotti/BR21/681/image-thumb__681__product_detail/BR21.29d29b10.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 355,
+      "height": 281,
+      "note": "Roger uses the same photo on its official product pages for these underground motors."
+    },
+    {
+      "file": "roger-br21-362.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "BR21/362",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/prodotto/br21-362",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Prodotti/BR21/681/image-thumb__681__product_detail/BR21.29d29b10.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 355,
+      "height": 281,
+      "note": "Roger uses the same photo on its official product pages for these underground motors."
+    },
+    {
+      "file": "roger-monos4.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "MONOS4",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/prodotto/monos4",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Prodotti/MONOS/1454/image-thumb__1454__product_detail/MONOS4.c2fde184.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 400,
+      "height": 177
+    },
+    {
+      "file": "roger-smarty5.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "SMARTY5",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/prodotto/smarty5",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Prodotti/SMARTY/1003/image-thumb__1003__product_detail/SMARTY5.a73f0061.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 361,
+      "height": 182
+    },
+    {
+      "file": "roger-smarty7.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "SMARTY7",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/prodotto/smarty7",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Prodotti/SMARTY/995/image-thumb__995__product_detail/SMARTY7.ab26f02f.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 362,
+      "height": 182
+    },
+    {
+      "file": "philips-ddl609-5hs.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL609-5HS",
+      "sourceProductUrl": "https://www.philips.com.vn/c-p/DDL609LKLB0_00/6000-series-smart-lever-door-lock",
+      "sourceImageUrl": "https://images.philips.com/is/image/philipsconsumer/7104a1c83d0a48b7ae47b333008c62de?$png$&wid=780&hei=780&fit=constrain",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 453,
+      "height": 426
+    },
+    {
+      "file": "philips-ddl615-5hbs.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL615-5HBS",
+      "sourceProductUrl": "https://www.philips.com.vn/c-p/DDL615LIPKB_00/6000-series-narrow-body-lever-style-smart-lock",
+      "sourceImageUrl": "https://images.philips.com/is/image/philipsconsumer/dd3cdc3d63854b8c8116b2820094434f?$png$&wid=780&hei=780&fit=constrain",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 470,
+      "height": 449
+    },
+    {
+      "file": "philips-ddl801-5hbs.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL801-5HBS",
+      "sourceProductUrl": "https://www.philips.com.vn/c-p/DDL801LAFKB_00/8000-series-push-pull-smart-lock",
+      "sourceImageUrl": "https://images.philips.com/is/image/philipsconsumer/2a245982a3444e638df9b29d0070a1d6?$png$&wid=780&hei=780&fit=constrain",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 350,
+      "height": 689
+    },
+    {
+      "file": "philips-ddl709-7hws.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL709-7HWS",
+      "sourceProductUrl": "https://www.philips.com.vn/c-p/DDL709NCAGBW_00/7000-series-facial-recognition-smart-door-lock",
+      "sourceImageUrl": "https://images.philips.com/is/image/philipsconsumer/4e0d90b740554422985eb1c50070f139?$png$&wid=780&hei=780&fit=constrain",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 335,
+      "height": 678,
+      "note": "Manufacturer identifies this as DDL709-FVP-7HWS, matching product family and features."
+    },
+    {
+      "file": "philips-ddl720-fvp.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL720-FVP",
+      "sourceProductUrl": "https://www.philips.com.vn/c-p/DDL720CCABW_00/7000-series-facial-recognition-smart-door-lock",
+      "sourceImageUrl": "https://images.philips.com/is/image/philipsconsumer/a69eb4e7c61e494384f0b2bc006ade23?$png$&wid=780&hei=780&fit=constrain",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 351,
+      "height": 678,
+      "note": "Manufacturer identifies this as DDL720-FVP-7HWS, matching product family and features."
+    },
+    {
+      "file": "philips-ddl720-mvp.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL720-MVP",
+      "sourceProductUrl": "https://www.philips.com.vn/c-p/DDL720FCAKW_00/7000-series-palm-vein-smart-door-lock",
+      "sourceImageUrl": "https://images.philips.com/is/image/philipsconsumer/3635c74d8c3643969046b282006ad1c7?$png$&wid=780&hei=780&fit=constrain",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 351,
+      "height": 679,
+      "note": "Manufacturer identifies this as DDL720-MVP-17HWS, matching product family and features."
+    },
+    {
+      "file": "philips-ddl611s-5hbs.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL611S-5HBS",
+      "sourceProductUrl": "https://philips-smartlock.vn/product/philips-ddl611s-5hbs/",
+      "sourceImageUrl": "https://philips-smartlock.vn/wp-content/uploads/2025/12/68f854de6525a_.webp",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 652,
+      "height": 702,
+      "note": "Model also independently verified via manufacturer datasheet https://www.documents.philips.com/assets/20260429/e9aa4c0a44a14c7badc4b43b00af34de.pdf"
+    },
+    {
+      "file": "roger-bm30.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "Series BM30",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/catalogo?cat=42&serie%5B%5D=51",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Serie/217/image-thumb__217__product_list/BM30.ac157a78.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 276,
+      "height": 341,
+      "note": "Official Roger Technology illustration published for this series. The brochure lists the series without a variant suffix."
+    },
+    {
+      "file": "roger-bh30.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "Series BH30",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/catalogo?cat=42&serie%5B%5D=597",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Serie/105/image-thumb__105__product_list/BH30.1c5ebbeb.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 308,
+      "height": 366,
+      "note": "Official Roger Technology illustration published for this series. The brochure lists the series without a variant suffix."
+    },
+    {
+      "file": "roger-h30.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "Series H30",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/catalogo?cat=42&serie%5B%5D=781",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Serie/201/image-thumb__201__product_list/H30.6b76bfd7.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 307,
+      "height": 366,
+      "note": "Official Roger Technology illustration published for this series. The brochure lists the series without a variant suffix."
+    },
+    {
+      "file": "roger-r30.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "Series R30",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/catalogo?cat=42&serie%5B%5D=791",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Serie/210/image-thumb__210__product_list/R30.f893d988.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 337,
+      "height": 361,
+      "note": "Official Roger Technology illustration published for this series. The brochure lists the series without a variant suffix."
+    },
+    {
+      "file": "roger-g30.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "Series G30",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/catalogo?cat=42&serie%5B%5D=783",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Serie/203/image-thumb__203__product_list/G30.a6159b9d.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 317,
+      "height": 375,
+      "note": "Official Roger Technology illustration published for this series. The brochure lists the series without a variant suffix."
+    },
+    {
+      "file": "roger-be20.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "Series BE20",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/catalogo?cat=573&serie%5B%5D=590",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Serie/98/image-thumb__98__product_list/BE20.c55af409.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 413,
+      "height": 166,
+      "note": "Official Roger Technology illustration published for this series. The brochure lists the series without a variant suffix."
+    },
+    {
+      "file": "roger-r20.webp",
+      "sourcePage": 9,
+      "brand": "Roger Technology",
+      "item": "Series R20",
+      "sourceProductUrl": "https://www.rogertechnology.it/en/catalogo?cat=573&serie%5B%5D=789",
+      "sourceImageUrl": "https://www.rogertechnology.it/thumbnail/Catalogo/Serie/208/image-thumb__208__product_list/R20.c8dc347a.jpg",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 422,
+      "height": 185,
+      "note": "Official Roger Technology illustration published for this series. The brochure lists the series without a variant suffix."
+    },
+    {
+      "file": "philips-ddl610-5hbs.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL610-5HBS",
+      "sourceProductUrl": "https://www.philips.com.vn/c-p/DDL610LKCKB_00/6000-series-smart-lever-door-lock",
+      "sourceImageUrl": "https://images.philips.com/is/image/philipsconsumer/e8e214a21d7a4b0d817fb1d9007e726b?$png$&wid=780&hei=780&fit=constrain",
+      "method": "manufacturer product imagery, cropped and encoded as WebP",
+      "width": 434,
+      "height": 430
+    },
+    {
+      "file": "philips-ddl902-mvp-11hws.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "DDL902-MVP-11HWS",
+      "sourceProductUrl": "https://ssehome.vn/san-pham/philips-ddl902-mvp-11hws/",
+      "method": "Distributor SSEHome product photo for exact model",
+      "width": 311,
+      "height": 712,
+      "sourceImageUrl": "https://ssehome.vn/wp-content/uploads/2024/12/Philips-DDL902-MVP-11HWS.jpg"
+    },
+    {
+      "file": "philips-7300.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "7300",
+      "sourceProductUrl": "https://philips-smartlock.vn/product/khoa-tay-gat-philips-7300-5hb/",
+      "method": "7300-5HB product photo matches the Philips Vietnam 7300 Bluetooth Edition manual cover. The source profile calls the product 7300.",
+      "width": 667,
+      "height": 577,
+      "sourceImageUrl": "https://philips-smartlock.vn/wp-content/uploads/2025/10/5f33a8255c7c8.jpg",
+      "manufacturerVerificationUrl": "https://www.documents.philips.com/assets/20230824/639501f771ba40bfa992b068004ec943.pdf"
+    },
+    {
+      "file": "philips-alpha.webp",
+      "sourcePage": 11,
+      "brand": "Philips",
+      "item": "Alpha",
+      "sourceProductUrl": "https://www.documents.philips.com/assets/20230824/4731ed5d8cda40f18d2fb068005d59d5.pdf",
+      "method": "Series illustration cropped from page 1 of the Philips Alpha-5HB-HK Wi-Fi datasheet. The source profile specifies the Alpha family without a suffix.",
+      "width": 360,
+      "height": 712
+    }
+  ]
+}

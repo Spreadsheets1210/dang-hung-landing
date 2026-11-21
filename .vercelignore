@@ -1,0 +1,10 @@
+preview-*.png
+task_plan.md
+findings.md
+progress.md
+.env*
+.vercel/
+*.log
+playwright-report/
+test-results/
+tests/

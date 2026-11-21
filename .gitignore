@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.log
+.vercel/
+.env*
+!.env.example
+preview-*.png
+task_plan.md
+findings.md
+progress.md
+playwright-report/
+test-results/
+.DS_Store
+Thumbs.db
