@@ -16,9 +16,8 @@ Yêu cầu Node.js 22.12+ hoặc 24+.
 - npm run build
 - npm run preview -- --port 4173
 
-Để kiểm tra trên Edge, đặt PLAYWRIGHT_CHANNEL=msedge rồi chạy node tests/browser-check.mjs và node tests/contrast-check.mjs. Đặt SITE_URL nếu server không ở http://127.0.0.1:4173.
 
-Bản build tĩnh ở dist/. Nguồn trên máy chưa tự xuất bản lên Vercel.
+Bản build tĩnh ở dist/. 
 
 ## Các tệp chính
 - src/profile-pages.tsx: trang chủ, giới thiệu, danh sách và chi tiết công trình.
